@@ -11,4 +11,4 @@ A simple YouTube video card component built with vanilla JavaScript.
 Open `YoutubeCard Practice.html` in your browser.
 
 ## Demo
-![YouTube Card Preview](preview.png)
+<img width="621" height="418" alt="Screenshot 2025-11-09 150754" src="https://github.com/user-attachments/assets/b996e05a-6ede-4e2f-82bb-1e9cc8c31f5a" />
