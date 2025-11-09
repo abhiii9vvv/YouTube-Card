@@ -4,7 +4,7 @@ const video={
     views:"456k views",
     time:"3 days ago",
     duration:"31:20",
-    thumbnail:"/internsetu.png"
+    thumbnail:"internsetu.png"  // Remove the leading slash
 };
 
 
